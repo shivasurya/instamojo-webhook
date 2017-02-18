@@ -1,5 +1,8 @@
 # instamojo-webhook
-instamojo webhook handling and verification library for Express js Middleware <br />
+instamojo webhook handling and verification library for Express js Middleware <br /> <br />
+[![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
@@ -82,3 +85,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+[npm-image]: https://img.shields.io/npm/v/instamojo-webhook.svg
+[npm-url]: https://npmjs.org/package/instamojo-webhook
+[downloads-image]: https://img.shields.io/npm/dm/instamojo-webhook.svg
+[downloads-url]: https://npmjs.org/package/instamojo-webhook
